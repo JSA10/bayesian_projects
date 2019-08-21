@@ -2,3 +2,4 @@
 applied projects to practise bayesian techniques of inference and modelling
 Starting ideas:
 benchmarking kpis
+ / forecasting future values
